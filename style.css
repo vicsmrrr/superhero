@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+ol{
+    color: white;
+}
+img{
+    display: block;
+    font-size: 400px;
+}
